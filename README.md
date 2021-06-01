@@ -1,5 +1,7 @@
 # Pomodoro
 
+## About
+
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
 
