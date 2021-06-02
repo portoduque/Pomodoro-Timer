@@ -1,6 +1,7 @@
 # Pomodoro
 
 ## About
+This project is based on the Pomodoro Technique, using Graphical User Interface (GUI) and Tkinter module. The goal of this project is to beat procrastination and improve your focus one Pomodoro at a time
 
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
