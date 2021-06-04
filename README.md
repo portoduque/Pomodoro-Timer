@@ -14,6 +14,11 @@ This process will be repeated **4 times**, but the last break (**Long Break**) w
 
 [Pomodoro Technique on the Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
+# Usage Example
+### Work timer:
+![work_usage](https://user-images.githubusercontent.com/37813839/120803927-75234780-c51a-11eb-8d65-c4644bfde475.gif)
+
+
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
 
