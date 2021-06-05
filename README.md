@@ -18,6 +18,9 @@ This process will be repeated **4 times**, but the last break (**Long Break**) w
 ### Work timer:
 ![work_usage](https://user-images.githubusercontent.com/37813839/120803927-75234780-c51a-11eb-8d65-c4644bfde475.gif)
 
+### Break timer:
+![short_break_usage](https://user-images.githubusercontent.com/37813839/120893701-f0542e80-c5ea-11eb-92e7-e702fd2e52e6.gif)
+
 
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
