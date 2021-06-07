@@ -1,4 +1,4 @@
-# Pomodoro
+![logo](https://user-images.githubusercontent.com/37813839/121018437-cfb7e000-c774-11eb-8e5f-8bdf09b77ebe.png)
 
 ## About
 This project is based on the Pomodoro Technique, using Graphical User Interface (GUI) and Tkinter module. The goal of this project is to beat procrastination and improve your focus one Pomodoro at a time
